@@ -11,7 +11,7 @@ public class Lab005 {
        //Variable is used to store value
        boolean is_vrushabh_single = true;
        int a = 10;
-
+        System.out.println(a);
 
     }
 }
