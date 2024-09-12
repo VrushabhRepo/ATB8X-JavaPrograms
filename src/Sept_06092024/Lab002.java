@@ -8,6 +8,6 @@ public class Lab002 {
     public static void main(String[] args) {
 
         //This statement is used to print the statement
-        System.out.println("hello Vrushabh");
+        System.out.println("hello Vrushabh" +'\n'+ "I am Okay" +'\n' + "Good");
     }
 }
